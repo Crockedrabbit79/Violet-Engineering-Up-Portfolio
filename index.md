@@ -13,7 +13,7 @@
 
 ![]()
 
-# Final Schematic Sir Kickington 
+# Final Schematic
 ![]()
 
 

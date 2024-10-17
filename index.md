@@ -11,7 +11,7 @@ This will serve as a brief description of your projects. Limit this to three sen
 
 My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
 
-[![]()
+![]()
 
 # Final Schematic Sir Kickington 
 ![]()

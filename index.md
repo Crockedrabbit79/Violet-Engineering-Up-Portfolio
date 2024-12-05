@@ -6,6 +6,7 @@ I am working on a code-powered car that runs off code I made in the Arudino IDE 
 | Violet | School Without Walls | Mechanical Engineering | Senior 
 
 ![Before Modifications](https://live.staticflickr.com/65535/54074489584_2f8bc29afb_n.jpg)
+
 At this moment my car drove automatically and used two IR obstacle avoidance sensors and an Ultrasonic module to avoid any obstacles in its way. I followed the instructions to make it.
 
 After some changes

@@ -1,5 +1,6 @@
 # Big Car
 I am working on a code-powered car that runs off code I made in the Arudino IDE software which works in tandem with the Arduino microcontroller. Using instructions I made it so my car is controlled by an IR remote and can drive in different directions based on the remote's output. I then looked at LED code and modified it so that while driving in reverse my car has an LED light up a shade of violet. 
+
 This experience has taught me how to code and how to effectively wire components. Both of these I've never particularly been good at. I am going to use this experience to help with my future career in Mechanical Engineering and for one of my favorite hobbies, robotics. I can also use my newfound knowledge to help fix any electronics in my home.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |

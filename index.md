@@ -3,7 +3,7 @@ I am working on a code-powered car that runs off code I made in the Arudino IDE 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Violet Nelson | School Without Walls | Mechanical Engineering | Senior 
+| Violet | School Without Walls | Mechanical Engineering | Senior 
 
 ![Before Modifications](https://live.staticflickr.com/65535/54074489584_2f8bc29afb_n.jpg)
 

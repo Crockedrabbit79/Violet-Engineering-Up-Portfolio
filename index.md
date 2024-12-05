@@ -1,12 +1,12 @@
 # Big Car
-I am working on a code-powered car that runs off code I made in the Arudino IDE software which works in tandem with the Arduino microcontroller. During this project, I have added my own creative spin to the project and created something amazingly unique.
+I am working on a code-powered car that runs off code I made in the Arudino IDE software which works in tandem with the Arduino microcontroller. Using instructions I made it so my car is controlled by an IR remote and can drive in different directions based on the remote's output. I then looked at LED code and modified it so that while driving in reverse my car has an LED light up a shade of violet. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Violet | School Without Walls | Mechanical Engineering | Senior 
 
 ![Before Modifications](https://live.staticflickr.com/65535/54074489584_2f8bc29afb_n.jpg)
-
+At this moment my car drove automatically and used two IR obstacle avoidance sensors and an Ultrasonic module to avoid any obstacles in its way. I followed the instructions to make it.
 
 After some changes
 

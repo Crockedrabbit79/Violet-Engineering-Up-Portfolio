@@ -1,5 +1,5 @@
 # Big Car
-.
+I am working on a code-powered car that runs off code I made in the Arudino IDE software which works in tandem with the Arduino microcontroller. During this project, I have added my own creative spin to the project and created something amazingly unique.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|

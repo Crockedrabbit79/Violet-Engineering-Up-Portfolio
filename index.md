@@ -4,7 +4,7 @@
 |:--:|:--:|:--:|:--:|
 | Violet | School Without Walls | Mechanical Engineering | Senior 
 
-I am working on a code-powered car that runs off code I made in the Arudino IDE software which works in tandem with the Arduino microcontroller. Using instructions I made it so my car is controlled by an IR remote and can drive in different directions based on the remote's output. I then looked at LED code and modified it so that while driving in reverse my car has an LED light up a shade of violet. I also modifed code for a buzzer to make a noise when the car drives forward.
+I am working on a code-powered car that runs off code I made in the Arudino IDE software which works in tandem with the Arduino microcontroller. Using instructions I made it so my car is controlled by an IR remote and can drive in different directions based on the remote's output. I then looked at LED code and modified it so that while driving in reverse my car has an LED light up a shade of violet. I also modified code for a servo to run as the car does. This Servo can be turned on and off through the remote.
 
 This experience has taught me how to code and how to effectively wire components. Both of these I've never particularly been good at but through this program I was able to learn how to do both of these. I am going to use this experience to help with my future career in Mechanical Engineering and for one of my favorite hobbies, robotics. I can also use my newfound knowledge to help fix any electronics in my home.
 

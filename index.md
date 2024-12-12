@@ -25,13 +25,13 @@ In this picture my car is as I described in my first paragraph. It drives using 
 My second milestone was being able to code the car using Arduino IDE, I got the car to use an IR remote to move the car. I then modified some code and got the LED to light up.
 [![Violet's second milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1732231779/video_to_markdown/images/youtube--vemrxCqHSTU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vemrxCqHSTU "Violet's second milestone")
 
-# Final Milestone
+
 
 .
 
 ![]()
 
-# Final Schematic
+
 ![]()
 
 
